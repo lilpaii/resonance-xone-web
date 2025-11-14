@@ -31,7 +31,8 @@
               "src/assets/bootstrap/css/styles.css"
             ],
             "scripts": [
-            ]
+            ],
+            "baseHref": "/resonance-xone-web/"
           },
           "configurations": {
             "production": {
